@@ -13,3 +13,10 @@
 - 실험 방향성 변경(transformer에 대해 깊게 탐구)
 - transformer와 pytorch 학습, deep-learning 복습
 - 아이디어 제시
+
+## 9-11달
+- 새로운 모델 제안(multi-task, focal loss)
+- 이를 바탕으로 실험 진행
+
+## 참고
+- main_code.py를 제외한 나머지 파일은 시행착오로 인한 것이며, 논문과 무관합니다.
